@@ -101,10 +101,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV16
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 group-title="央视IPv4",CCTV16
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV17
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 group-title="央视IPv4",CCTV17
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 group-title="央视IPv4",CGTN
@@ -117,13 +115,8 @@ https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 
 #央视4K
-#EXTINF:-1 group-title="央视4K",CCTV16-4K
-https://tv.cry33.com/ys4k.php?id=16-4k
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视4K",CCTV-4K 超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视4K",CCTV-4K 超高清
-https://tv.cry33.com/ys4k.php?id=4k
-
 
 #卫视IPv4
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视IPv4",北京卫视
@@ -528,7 +521,7 @@ http://nas.mfparking.com:4022/udp/233.50.201.174:5140
 #EXTINF:-1 tvg-id="ZJ11" tvg-name="杭州生活" tvg-logo="https://upload.112114.xyz/logo/hangzhou3.png" group-title="浙江",杭州生活
 http://nas.mfparking.com:4022/udp/233.50.201.176:5140
 #EXTINF:-1 tvg-id="ZJ12" tvg-name="杭州影视" tvg-logo="https://upload.112114.xyz/logo/hangzhou4.png" group-title="浙江",杭州影视
-http://nas.mfparking.com:8125/udp/233.50.201.176:5140
+
 #EXTINF:-1 tvg-id="ZJ13" tvg-name="杭州青少" tvg-logo="https://upload.112114.xyz/logo/hangzhou5.png" group-title="浙江",杭州青少
 http://nas.mfparking.com:4022/udp/233.50.201.177:5140
 #EXTINF:-1 tvg-id="ZJ14" tvg-name="杭州导视" group-title="浙江",杭州导视
@@ -672,17 +665,11 @@ rtmp://visit.jjbctv.com:1935/live/xwzhpc
 
 #港澳台新闻
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台新闻",凤凰卫视中文台
-http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台新闻",凤凰卫视中文台
-http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台新闻",凤凰卫视资讯台
-http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台新闻",凤凰卫视资讯台
-http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台新闻",凤凰卫视香港台
-http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台新闻",凤凰卫视香港台
-http://103.95.24.37:880/fhxgt.m3u8
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-name="TVB亞洲劇" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/12/08/large/20231208223626594389_27.png" group-title="港澳台新闻",TVBS-亚洲
 https://epg.pw/stream/df891b505a8433ebc8b75612066a1cc25b14149d1d52136d6c5e3b19e86aa6cf.m3u8
 #EXTINF:-1 tvg-name="TVBS" group-title="港澳台新闻",澳门卫视
