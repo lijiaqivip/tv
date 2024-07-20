@@ -688,35 +688,6 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 
 
 #香港
-#EXTINF:-1 tvg-name="ASN HD" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/03/13/large/20240313161940485960_23.png" group-title="香港",[BD]masn
-https://stream1.freetv.fun/masn-1.ctv
-#EXTINF:-1 tvg-name="ATV WORLD" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/03/12/large/20240312213951630999_11.png" group-title="香港",[BD]tvri world
-https://stream1.freetv.fun/tvri-world-6.m3u8
-#EXTINF:-1 tvg-name="ATV WORLD" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/03/12/large/20240312213951630999_11.png" group-title="香港",[HD]atv
-https://stream1.freetv.fun/atv-2.m3u8
-#EXTINF:-1 tvg-name="C+頻道" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135716055628_86.jpg" group-title="香港",[HD]香港c+
-https://stream1.freetv.fun/xiang-gang-c-plus-1.m3u8
-#EXTINF:-1 t
-#EXTINF:-1 tvg-name="MOVIE MOVIE" tvg-id="10979" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png" group-title="香港",[HD]horror movie 2
-https://stream1.freetv.fun/horror-movie-2-1.ctv
-#EXTINF:-1 tvg-name="MOVIE MOVIE" tvg-id="10979" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png" group-title="香港",[HD]western movie
-https://stream1.freetv.fun/western-movie-1.ctv
-#EXTINF:-1 tvg-name="MOVIE MOVIE" tvg-id="10979" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png" group-title="香港",[HD]crime movie
-https://stream1.freetv.fun/crime-movie-1.ctv
-#EXTINF:-1 tvg-name="MOVIE MOVIE" tvg-id="10979" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png" group-title="香港",[BD]sunset movie[geo-blocked]
-https://stream1.freetv.fun/sunset-movie-1.m3u8
-#EXTINF:-1 tvg-name="Now TV" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231231738105400_86.png" group-title="香港",[BD]axs tv now
-https://stream1.freetv.fun/axs-tv-now-2.m3u8
-#EXTINF:-1 tvg-name="RTHK31" tvg-id="368901" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719083758215404_92.png" group-title="香港",[HD]rthktv31
-https://stream1.freetv.fun/rthktv31-1.ctv
-#EXTINF:-1 tvg-name="RTHK32" tvg-id="368900" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719083827856598_33.png" group-title="香港",[HD]rthk32
-https://stream1.freetv.fun/rthk32-1.ctv
-#EXTINF:-1 tvg-name="CCTV1(RTHK33)" tvg-id="368552" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png" group-title="香港",[HD]rthk33
-https://stream1.freetv.fun/rthk33-1.m3u8
-#EXTINF:-1 tvg-name="RTHK34" tvg-id="368553" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/08/22/large/20220822225312895053_10.png" group-title="香港",[HD]rthk34
-https://stream1.freetv.fun/rthk34-2.m3u8
-#EXTINF:-1 tvg-name="Sports Plus 2" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807222835770753_83.jpg" group-title="香港",[HD]root sports plus 2
-https://stream1.freetv.fun/root-sports-plus-2-1.ctv
 #EXTINF:-1 tvg-name="TVB Plus" tvg-id="368361" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="香港",[BD]tvb plus
 https://stream1.freetv.fun/tvb-plus-8.ctv
 #EXTINF:-1 tvg-name="TVB新聞臺" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/03/12/large/20240312220208325041_97.png" group-title="香港",[BD]tvbs新闻台HD
@@ -727,8 +698,6 @@ https://stream1.freetv.fun/tvbsxin-wen-4.m3u8
 https://stream1.freetv.fun/tvbxing-he-2.ctv
 #EXTINF:-1 tvg-name="TVB無線衛星新聞" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/img/logo/3_358.jpg" group-title="香港",[HD]tvb无线新闻
 https://stream1.freetv.fun/tvbwu-xian-xin-wen-2.ctv
-#EXTINF:-1 tvg-name="ViuTV HD" tvg-id="10957" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="香港",[BD]viutv
-https://stream1.freetv.fun/viutv-1.ctv
 #EXTINF:-1 tvg-name="亞太第一衛視" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165040805892_78.jpg" group-title="香港",[BD]第一卫视
 https://stream1.freetv.fun/di-yi-wei-shi-1.m3u8
 #EXTINF:-1 tvg-name="無線新聞台" tvg-id="368363" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="香港",[HD]无线娱乐
@@ -755,7 +724,36 @@ https://stream1.freetv.fun/feng-huang-zi-xun-5.m3u8
 https://stream1.freetv.fun/feng-huang-xiang-gang-10.ctv
 #EXTINF:-1 tvg-name="鳳凰香港" tvg-id="368910" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="香港",[HD]凤凰香港
 https://stream1.freetv.fun/feng-huang-xiang-gang-4.m3u8
-
+#EXTINF:-1 tvg-name="C+頻道" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135716055628_86.jpg" group-title="香港",[HD]香港c+
+https://stream1.freetv.fun/xiang-gang-c-plus-1.m3u8
+#EXTINF:-1 tvg-name="RTHK31" tvg-id="368901" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719083758215404_92.png" group-title="香港",[HD]rthktv31
+https://stream1.freetv.fun/rthktv31-1.ctv
+#EXTINF:-1 tvg-name="RTHK32" tvg-id="368900" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719083827856598_33.png" group-title="香港",[HD]rthk32
+https://stream1.freetv.fun/rthk32-1.ctv
+#EXTINF:-1 tvg-name="CCTV1(RTHK33)" tvg-id="368552" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png" group-title="香港",[HD]rthk33
+https://stream1.freetv.fun/rthk33-1.m3u8
+#EXTINF:-1 tvg-name="RTHK34" tvg-id="368553" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/08/22/large/20220822225312895053_10.png" group-title="香港",[HD]rthk34
+https://stream1.freetv.fun/rthk34-2.m3u8
+#EXTINF:-1 tvg-name="ViuTV HD" tvg-id="10957" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="香港",[BD]viutv
+https://stream1.freetv.fun/viutv-1.ctv
+#EXTINF:-1 tvg-name="Sports Plus 2" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807222835770753_83.jpg" group-title="香港",[HD]root sports plus 2
+https://stream1.freetv.fun/root-sports-plus-2-1.ctv
+#EXTINF:-1 tvg-name="ASN HD" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/03/13/large/20240313161940485960_23.png" group-title="香港",[BD]masn
+https://stream1.freetv.fun/masn-1.ctv
+#EXTINF:-1 tvg-name="ATV WORLD" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/03/12/large/20240312213951630999_11.png" group-title="香港",[BD]tvri world
+https://stream1.freetv.fun/tvri-world-6.m3u8
+#EXTINF:-1 tvg-name="ATV WORLD" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/03/12/large/20240312213951630999_11.png" group-title="香港",[HD]atv
+https://stream1.freetv.fun/atv-2.m3u8
+#EXTINF:-1 tvg-name="MOVIE MOVIE" tvg-id="10979" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png" group-title="香港",[HD]horror movie 2
+https://stream1.freetv.fun/horror-movie-2-1.ctv
+#EXTINF:-1 tvg-name="MOVIE MOVIE" tvg-id="10979" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png" group-title="香港",[HD]western movie
+https://stream1.freetv.fun/western-movie-1.ctv
+#EXTINF:-1 tvg-name="MOVIE MOVIE" tvg-id="10979" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png" group-title="香港",[HD]crime movie
+https://stream1.freetv.fun/crime-movie-1.ctv
+#EXTINF:-1 tvg-name="MOVIE MOVIE" tvg-id="10979" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png" group-title="香港",[BD]sunset movie[geo-blocked]
+https://stream1.freetv.fun/sunset-movie-1.m3u8
+#EXTINF:-1 tvg-name="Now TV" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231231738105400_86.png" group-title="香港",[BD]axs tv now
+https://stream1.freetv.fun/axs-tv-now-2.m3u8
 
 #台湾
 #EXTINF:-1 tvg-name="澳门澳视" group-title="台湾",台视新闻HD
