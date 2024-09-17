@@ -682,7 +682,7 @@ https://stream1.freetv.fun/feng-huang-zhong-wen-12.ctv
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台新闻",凤凰卫视资讯台
 https://stream1.freetv.fun/feng-huang-zi-xun-21.ctv
 
-#EXTINF:-1 tvg-id="PH02" tvg-name="凤凰资讯" tvg-logo="https://epg.pw/media/images/channel/2024/02/04/large/20240204145017493579_29.png" group-title="港澳台新闻",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台新闻",凤凰讯台
 https://stream1.freetv.fun/feng-huang-zi-xun-13.ctv
 
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台新闻",凤凰卫视香港台
