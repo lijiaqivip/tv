@@ -2,11 +2,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #央视IPv4
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视IPv4",CCTV-1
-http://www.furymax.top:85/rtp/239.254.96.96:8550
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视IPv4",CCTV-1
-http://60.7.56.33:4000/rtp/239.253.92.83:8012$1920x1080
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视IPv4",CCTV-1
-http://ik6.iptv8.net:8888/udp/225.1.4.73:1102
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=1587240374177179388
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视IPv4",CCTV-2
 http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=2038291520205345979
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视IPv4",CCTV-4
