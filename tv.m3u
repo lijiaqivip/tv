@@ -8,13 +8,7 @@ http://60.7.56.33:4000/rtp/239.253.92.83:8012$1920x1080
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视IPv4",CCTV-1
 http://ik6.iptv8.net:8888/udp/225.1.4.73:1102
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视IPv4",CCTV-2
-http://sweetown.fun:4000/rtp/239.3.1.60:8084$1920x1080
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视IPv4",CCTV-2
-http://60.7.56.33:4000/rtp/239.253.92.190:6065$1920x1080
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视IPv4",CCTV-2
-http://114.252.229.100:8000/rtp/239.3.1.60:8084$1920x1080
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视IPv4",CCTV-2
-http://ik6.iptv8.net:8888/udp/225.1.4.74:1103
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=2038291520205345979
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视IPv4",CCTV-4
 http://60.7.56.33:4000/rtp/239.253.93.192:6370$1920x1080
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视IPv4",CCTV-4
